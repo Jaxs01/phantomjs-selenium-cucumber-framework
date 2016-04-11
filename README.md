@@ -1,6 +1,6 @@
 Introduction
 ============
-This is a sample project that can be used to start off using PhantomJS - Selenium - Cucumber (Headless Website Functional Testing)
+This is a sample project that can be used to start off using PhantomJS - Selenium - Cucumber **(Headless Website Functional Testing)**
 
 Pre requisites:
 ------------
